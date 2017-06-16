@@ -1,5 +1,5 @@
 # Getting-CleaningData
-## 2nd project
+## Course Project
 The course project for the Getting and Cleaning Data course. The R script, run_analysis.R, performs the following:
 
   Downloads the dataset if it does not already exist in the working directory
